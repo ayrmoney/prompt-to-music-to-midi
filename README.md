@@ -14,6 +14,18 @@ If you want to try out the prototype, some points to keep in mind:
 
 Prompt: "Cinematic taiko drum loop with a release tail at 125 BPM. Drum Loops, Japanese Traditional"
 
-MusicGen-Large (.wav):
+MusicGen-Large output (uploaded as .mp4 since GitHub doesn't support .mp3 or .wav):
+
+
+
+https://github.com/user-attachments/assets/40569f9e-ab48-479f-a8a3-6c65b10dce6d
+
+
+
 
 OaF-Drums (MIDI file, but played with Clean Back drums):
+
+
+
+https://github.com/user-attachments/assets/0ea44875-511f-4e91-aba2-da89104646b2
+
