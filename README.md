@@ -9,3 +9,11 @@ If you want to try out the prototype, some points to keep in mind:
 1. Requires python 3.7 (**NOT** higher) since the magenta model (OaF-Drums) depends on it & hasn't been updated (creating a conda env works).
 2. Install all dependencies refering to the first block of the notebook.
 3. Replace `HF_TOKEN` in `Pipeline V0.ipynb` (second block) with your own huggingface token.
+
+### Example:
+
+Prompt: "Cinematic taiko drum loop with a release tail at 125 BPM. Drum Loops, Japanese Traditional"
+
+MusicGen-Large (.wav):
+
+OaF-Drums (MIDI file, but played with Clean Back drums):
